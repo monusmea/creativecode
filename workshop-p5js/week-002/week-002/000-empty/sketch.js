@@ -3,8 +3,6 @@ var mapimg;
 var clat = 0;
 var clon = 0;
 
-// New comment for git
-
 //31.2304° N, 121.4737° E
 
 var lat = 49.2827;
